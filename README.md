@@ -18,8 +18,8 @@
 
 ---
 
-- 📄 Publications: See my [Google Scholar](https://scholar.google.com/citations?user=Nb660tAAAAAJ&hl=en)
-- 📫 Contact: If you want to get in touch, send my and [email!](mailto:mastropietro@bit.uni-bonn.de)
+- 📄 Publications: see my [Google Scholar](https://scholar.google.com/citations?user=Nb660tAAAAAJ&hl=en)
+- 📫 Contact: if you want to get in touch, send me and [email!](mailto:mastropietro@bit.uni-bonn.de)
 
 
 Feel free to explore my repositories or get in touch!
