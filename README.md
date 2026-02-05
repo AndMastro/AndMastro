@@ -3,15 +3,15 @@
 **Junior Research Group Leader and Assistant Professor for Explainable AI (XAI) in Biomedicine**
 
 - 🧠 My work focuses on deep learning and explainability techniques in bioinformatics and chemoinformatics
-- 🌱 From: Rome, Italy 🇮🇹
-- 📍 Current location: University of Bonn, Germany 🇩🇪
-- 🌏 Sometimes at: Nara Institute of Science and Technology, Nara, Japan 🇯🇵
+- 🌱 From: Rome, Italy 🍕🏛️
+- 📍 Current location: University of Bonn, Germany 🍺🏰
+- 🌏 Sometimes at: Nara Institute of Science and Technology, Nara, Japan 🍣🎌
 - 🛠️ Main project: [EdgeSHAPer](https://github.com/AndMastro/EdgeSHAPer) – explainability for graph neural networks
 - 🌐 Personal webpage: [mastro.me](https://mastro.me)
 
----
+<!-- ---
 
-<!-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndMastro&show_icons=true&theme=default" alt="Andrea's GitHub Stats" height="180"/>
