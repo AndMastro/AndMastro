@@ -1,9 +1,10 @@
 ## Hi, I'm Andrea Mastropietro 👋
 
-**Postdoc Researcher in Explainable AI (XAI) for Biomedicine**
+**Junior Research Group Leader and Assistant Professor for Explainable AI (XAI) in Biomedicine**
 
 - 🧠 My work focuses on deep learning and explainability techniques in bioinformatics and chemoinformatics
 - 📍 Current location: University of Bonn, Germany
+- 🌏 Sometimes at: Nara Institute of Science and Technology, Nara, Japan
 - 🛠️ Main project: [EdgeSHAPer](https://github.com/AndMastro/EdgeSHAPer) – explainability for graph neural networks
 - 🌐 Personal webpage: [mastro.me](https://mastro.me)
 
