@@ -33,7 +33,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Andrea-Mastropietro)
 
 ### 📫 Contact: 
-If you want to get in touch, send me and email [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastropietro@bit.uni-bonn.de)
+If you want to get in touch, send me an [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mastropietro@bit.uni-bonn.de)
 
 
 Feel free to explore my repositories or get in touch!
